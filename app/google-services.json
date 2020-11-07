@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "298615722420",
+    "firebase_url": "https://appfirebasevespertino-94a52.firebaseio.com",
+    "project_id": "appfirebasevespertino-94a52",
+    "storage_bucket": "appfirebasevespertino-94a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298615722420:android:44dbe59383b09043fe62e1",
+        "android_client_info": {
+          "package_name": "com.inacap.demodrawernavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298615722420-5sjac30qg37ts3gs4b5sk01elsvhf51g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKjoAwVpDqS9E8U7TrfPKPcPSdAjxBt2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298615722420-5sjac30qg37ts3gs4b5sk01elsvhf51g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
